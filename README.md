@@ -1,2 +1,4 @@
-# cube-robot
-Rubik's Cube solving robot - FYP 2023
+# Rubik's Cube Solving Robot
+Autonomous robot capable of scanning and solving a Rubik’s cube.
+
+
